@@ -2,7 +2,7 @@
   "name": "obsidian-nova",
   "displayName": "Obsidian Nova",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "JaSperryTech",
   "repository": "https://github.com/JaSperryTech-Main/nova-theme",
   "engines": {
@@ -16,7 +16,7 @@
       {
         "label": "Obsidian Nova",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nova-color-theme.json"
+        "path": "./themes/obsidian-nova-theme.json"
       }
     ]
   }
