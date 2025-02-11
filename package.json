@@ -1,0 +1,21 @@
+{
+  "name": "nova-theme",
+  "displayName": "Nova Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nova",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nova-color-theme.json"
+      }
+    ]
+  }
+}
