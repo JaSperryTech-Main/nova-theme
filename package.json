@@ -2,9 +2,9 @@
   "name": "nova-theme",
   "displayName": "Nova Theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "JaSperryTech",
-  "repository": "https://github.com/JaSperryTech-Main/nova-theme ",
+  "repository": "https://github.com/JaSperryTech-Main/nova-theme",
   "engines": {
     "vscode": "^1.50.0"
   },
